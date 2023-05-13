@@ -1,0 +1,820 @@
+*{
+  scroll-behavior: smooth;
+transition:1sec;
+}
+.sec4{
+ 
+  margin-top: 0px;
+  height: 117vh;
+  background-color: wheat;
+  
+ 
+  
+}
+.sec5{
+  background-color:white;
+  margin-top: 0px;
+  height: 117vh;
+}
+.head{
+  margin-top: 21px;
+  position:absolute;
+ margin-left: 33%;
+ font-style: italic;
+font-weight: bolder; 
+text-decoration: underline;
+font-family: cursive;
+font-style: italic;
+font-weight: bolder; 
+
+font-size: 37px;
+color: peru;
+border-bottom: dotted;
+border-left: dotted;
+border-right: dotted;
+border-radius: 30px;
+background-color: antiquewhite;
+
+ 
+}
+.head1{
+  margin-top: 29px;
+  position:absolute;
+ margin-left: 40%;
+ font-style: italic;
+font-weight: bolder; 
+font-family: cursive;
+font-size: 50px;
+color: peru;
+border-bottom: dotted;
+border-left: dotted;
+border-right: dotted;
+border-radius: 30px;
+background-color: antiquewhite;
+ }
+ 
+
+.inimg{
+ 
+  
+  margin-top: 130px;
+  margin-left: 50px;
+position: absolute;
+ background-size: cover;
+ overflow: hidden;
+ border-radius: 40px;
+ 
+}
+.inimg img{
+  
+  border-radius: 40px;
+ }
+ .inimg img:hover{
+   border-radius: 40px;
+   transform: scale(1.5);
+   transition: 0.5s all ease-in-out;
+   width: 100%;
+ }
+
+.inimg2{
+  margin-top: 130px;
+  margin-left: 75%;
+position: absolute;
+ background-size: cover;
+ overflow: hidden;
+ border-radius: 40px;
+}
+
+.inimg2 img{
+  
+ border-radius: 40px;
+}
+.inimg2 img:hover{
+  border-radius: 40px;
+  transform: scale(1.5);
+  transition: 0.5s all ease-in-out;
+  width: 100%;
+}
+
+.tex{
+width: 40%;
+margin-top: 100px;
+position: absolute;
+margin-left: 30%;
+overflow: scroll;
+
+background-color: rgb(176, 210, 255);
+}
+.tex p{
+  width: 97%;
+  height: 70vh;
+  font-style: italic;
+font-weight: bolder; 
+font-family: cursive;
+font-size: 20px;
+color: peru;
+
+
+;
+  
+}
+
+.btn button{
+  background-color: transparent;
+  position: absolute;
+  margin: 47% ;
+  width: 80px;
+  height: 30px;
+  border: 4px solid gold;
+}
+
+.btn button:hover{
+  width: 90px;
+  height: 40px;
+  border-radius: 20px;
+  color: beige;
+  background-color: rgb(138, 135, 120);
+}
+
+.kno{
+  height: 430px;
+  width: 200px;
+  overflow: hidden;
+  float: left;
+  margin-top:50px;
+  margin-left: 50px;
+  border-radius: 40px;
+ 
+  
+}
+
+
+.kno img{
+  height: 300px;
+  width: 200px;
+  border-radius: 37px;
+  overflow: hidden;
+  
+}
+
+.kno img:hover{
+  border-radius: 40px;
+  transform: scale(1.2);
+  transition: 0.7s all ease-in-out;
+  width: 100%;
+  overflow: hidden;
+  height: 300px;
+}
+
+.kno h5{
+ justify-content: center;
+text-align: center;
+font-style: italic;
+font-weight: bolder; 
+position: absolute;
+margin-left: 5%;
+margin-top: 15px;
+padding: 4px;
+}
+
+.kno p{
+  font-style: italic;
+margin-top: 33px;
+
+}
+
+.kno1{
+  height: 430px;
+  width: 200px;
+  overflow: hidden;
+  float: left;
+  margin-top:230px;
+  margin-left: 50px;
+  border-radius: 40px;
+ 
+  
+}
+.kno1 img{
+  height: 300px;
+  width: 200px;
+  border-radius: 37px;
+  overflow: hidden;
+  
+}
+.kno1 img:hover{
+  border-radius: 40px;
+  transform: scale(1.2);
+  transition: 0.7s all ease-in-out;
+  width: 100%;
+  overflow: hidden;
+  height: 300px;
+}
+.kno1 h5{
+  justify-content: center;
+ text-align: center;
+ font-style: italic;
+ font-weight: bolder; 
+ position: absolute;
+ margin-left: 5%;
+ margin-top: 15px;
+ padding: 4px;
+ }
+ 
+ .kno1 p{
+   font-style: italic;
+ margin-top: 33px;
+ 
+ }
+
+ .kno2{
+  height: 430px;
+  width: 200px;
+  overflow: hidden;
+  float: left;
+  margin-top:400px;
+  margin-left: 50px;
+  border-radius: 40px;
+ 
+  
+}
+.kno2 img{
+  height: 300px;
+  width: 200px;
+  border-radius: 37px;
+  overflow: hidden;
+  
+}
+.kno2 img:hover{
+  border-radius: 40px;
+  transform: scale(1.2);
+  transition: 0.7s all ease-in-out;
+  width: 100%;
+  overflow: hidden;
+  height: 300px;
+}
+.kno2 h5{
+  justify-content: center;
+ text-align: center;
+ font-style: italic;
+ font-weight: bolder; 
+ position: absolute;
+ margin-left: 5%;
+ margin-top: 15px;
+ padding: 4px;
+ }
+ 
+ .kno2 p{
+   font-style: italic;
+ margin-top: 33px;
+ 
+ }
+
+ .kno3{
+  height: 430px;
+  width: 200px;
+  overflow: hidden;
+  float: left;
+  margin-top:230px;
+  margin-left: 50px;
+  border-radius: 40px;
+ 
+  
+}
+.kno3 img{
+  height: 300px;
+  width: 200px;
+  border-radius: 37px;
+  overflow: hidden;
+  
+}
+.kno3 img:hover{
+  border-radius: 40px;
+  transform: scale(1.2);
+  transition: 0.7s all ease-in-out;
+  width: 100%;
+  overflow: hidden;
+  height: 300px;
+}
+.kno3 h5{
+  justify-content: center;
+ text-align: center;
+ font-style: italic;
+ font-weight: bolder; 
+ position: absolute;
+ margin-left: 5%;
+ margin-top: 15px;
+ padding: 4px;
+ }
+ 
+ .kno3 p{
+   font-style: italic;
+ margin-top: 33px;
+ 
+ }
+ 
+ .kno4{
+  height: 430px;
+  width: 200px;
+  overflow: hidden;
+  float: left;
+  margin-top:50px;
+  margin-left: 50px;
+  border-radius: 40px;
+ 
+  
+}
+.kno4 img{
+  height: 300px;
+  width: 200px;
+  border-radius: 37px;
+  overflow: hidden;
+  
+}
+.kno4 img:hover{
+  border-radius: 40px;
+  transform: scale(1.2);
+  transition: 0.7s all ease-in-out;
+  width: 100%;
+  overflow: hidden;
+  height: 300px;
+}
+.kno4 h5{
+  justify-content: center;
+ text-align: center;
+ font-style: italic;
+ font-weight: bolder; 
+ position: absolute;
+ margin-left: 5%;
+ margin-top: 15px;
+ padding: 4px;
+ }
+ 
+ .kno4 p{
+   font-style: italic;
+ margin-top: 33px;
+ 
+ }
+ 
+ .tea{
+  height: 180px;
+  width: 180px;
+
+  margin-top: 150px;
+position: absolute;
+margin-left: 350px;
+border-radius: 50px;
+ }
+ .tea img {
+  height: 180px;
+  width: 180px;
+  border-radius: 50px;
+ }
+ .tea h3{
+  float: left;
+  margin-left: 50px;
+  font-style: italic;
+  font-weight: bolder; 
+  position: absolute;
+ 
+  
+  padding: 4px;
+
+ }
+ .tea h5{
+
+  font-size: 30px;
+  font-weight: bolder;
+  font-style: italic;
+  color: peru;
+  text-align: center;
+  border-bottom: dotted;
+  border-left: dotted;
+  border-right: dotted;
+  margin-top: 35px;
+  font-family: cursive;
+  border-radius: 50px;
+  border-color: hsl(0, 98%, 52%);
+  background-color: antiquewhite;
+ }
+
+ .tea1{
+  height: 180px;
+  width: 180px;
+ 
+  margin-top: 550px;
+  position: absolute;
+  border-radius: 50px;
+  margin-left: 350px;
+  
+ }
+ .tea1 img {
+  height: 180px;
+  width: 180px;
+  border-radius: 50px;
+ }
+ .tea1 h3{
+ 
+  
+    float: left;
+    margin-left: 50px;
+    font-style: italic;
+    font-weight: bolder; 
+    position: absolute;
+   
+    
+    padding: 4px;
+   }
+ 
+
+ .tea2{
+  height: 180px;
+  width: 180px;
+  
+  margin-top: 350px;
+  position: absolute;
+  margin-left: 600px;
+  border-radius: 50px;
+ }
+ .tea2 img {
+  height: 180px;
+  width: 180px;
+  border-radius: 50px;
+ }
+ .tea2 h3{
+  float: left;
+  margin-left: 70px;
+  font-style: italic;
+  font-weight: bolder; 
+  position: absolute;
+ 
+  
+  padding: 4px;
+ }
+
+ .tea3{
+  height: 180px;
+  width: 180px;
+  
+  margin-top: 350px;
+  position: absolute;
+  margin-left: 100px;
+  border-radius: 50px;
+ }
+ .tea3 img {
+  height: 180px;
+  width: 180px;
+  border-radius: 50px;
+ 
+ }
+ .tea3 h3{
+  float: left;
+  margin-left: 50px;
+  font-style: italic;
+  font-weight: bolder; 
+  position: absolute;
+ 
+  
+  padding: 4px;
+ }
+
+
+.tea .tiptext{
+  width:300px;
+  visibility: hidden;
+  z-index: 3;
+  padding: 20px;
+  margin-left: 190%;
+  background-color: rgb(208, 175, 240);
+  position: absolute;
+  height: 430px;
+  border-radius: 50px;
+  overflow: hidden;
+  
+  
+
+ }
+   .tea:hover .tiptext{
+  visibility: visible;
+ } 
+
+ 
+
+ 
+
+ .tea span p{
+  margin-top: 220px;
+  padding: 2px;
+  position: absolute;
+  overflow: hidden;
+    
+ }
+
+ .tea span img{
+  height: 200px;
+  margin-top: 0px;
+  position: absolute;
+ }
+ .tea1 .tiptext{
+  width:570px;
+  visibility: hidden;
+  z-index: 3;
+  padding: 20px;
+  margin-left: 70%;
+  background-color: rgb(156, 241, 220);
+  position: absolute;
+  height: 200px;
+  border-radius: 50px;
+  margin-top: 17px;
+  
+  
+
+ }
+   .tea1:hover .tiptext{
+  visibility: visible;
+ } 
+ 
+ .tea1 span p{
+  margin-right: 70px;
+  padding: 0px;
+  float: right;
+  margin-top: 0px;
+  overflow: hidden;
+}
+ .tea1 span img{
+  height: 200px;
+  margin-top: -19px;
+  margin-left: -19px; 
+ }
+ .tea2 .tiptext{
+  width:300px;
+  visibility: hidden;
+  z-index: 3;
+  padding: 20px;
+  margin-left: 30%;
+  background-color: rgb(255, 145, 169);
+  position: absolute;
+  height: 400px;
+  border-radius: 50px;
+  position: absolute;
+  
+
+ }
+   .tea2:hover .tiptext{
+  visibility: visible;
+ } 
+ .tea2 span p{
+  margin-top: 200px;
+  padding: 2px;
+  position: absolute;
+  overflow: hidden;
+
+ }
+ .tea2 span img{
+  height: 200px;
+  margin-top: 0px;
+  position: absolute;
+ }
+
+ .tea3 .tiptext{
+  width:300px;
+  visibility: hidden;
+  z-index: 3;
+  padding: 20px;
+  margin-left: 310%;
+  background-color: rgb(243, 192, 145);
+  position: absolute;
+  height: 400px;
+  border-radius: 50px;
+ 
+  
+
+ }
+   .tea3:hover .tiptext{
+  visibility: visible;
+  
+ }
+ .tea3 span p{
+  margin-top: 220px;
+  padding: 2px;
+  position: absolute;
+  
+ }
+
+ .tea3 span img{
+  height: 200px;
+  margin-top: 0px;
+  position: absolute;
+  
+ }
+
+ 
+.hoit{
+  height: 500px;
+  width: 270px;
+  
+  margin-left: 22.5%;
+  margin-top: 22.5%;
+  position: absolute;
+}
+
+
+
+.hoit h5{
+  font-size: 30px;
+  font-weight: bolder;
+  font-style: italic;
+  color: peru;
+  text-align: center;
+  border-bottom: dotted;
+  border-left: dotted;
+  border-right: dotted;
+  margin-top: 99px;
+  font-family: cursive;
+  border-radius: 50px;
+  border-color: hsl(0, 98%, 52%);
+  background-color: antiquewhite;
+ }
+
+ .hoit h5:hover{
+  opacity: 0%;
+ }
+
+ 
+
+ .tea:hover h3{
+  font-weight: bolder;
+  font-style: italic;
+  color: rgb(13, 133, 247);
+  border-bottom: dotted;
+  border-left: dotted;
+  border-right: dotted;
+  font-family: cursive;
+  border-radius: 50px;
+  border-color: peru;
+ } 
+ .tea1:hover h3{
+ font-weight: bolder;
+  font-style: italic;
+  color: rgb(247, 11, 23);
+  border-bottom: dotted;
+  border-left: dotted;
+  border-right: dotted;
+  font-family: cursive;
+  border-radius: 50px;
+  border-color: peru;
+ } 
+ .tea2:hover h3{
+ font-weight: bolder;
+  font-style: italic;
+  color: rgb(153, 5, 238);
+  border-bottom: dotted;
+  border-left: dotted;
+  border-right: dotted;
+  font-family: cursive;
+  border-radius: 50px;
+  border-color: peru;
+ } 
+ .tea3:hover h3{
+  font-weight: bolder;
+  font-style: italic;
+  color: rgb(7, 58, 6);
+  border-bottom: dotted;
+  border-left: dotted;
+  border-right: dotted;
+  font-family: cursive;
+  border-radius: 50px;
+  border-color: peru;
+ } 
+
+ .con{
+  height: 47px;
+  width: 450px;
+  background-color: antiquewhite;
+  margin-top: 10%;
+  position: absolute;
+  margin-left: 10%;
+  
+  
+  border-radius: 50px;
+  border-color: peru;
+ }
+
+ .con h1{
+  font-weight: bolder;
+  font-style: italic;
+  color: peru;
+  border-bottom: dotted;
+  border-left: dotted;
+  border-right: dotted;
+  font-family: cursive;
+  border-radius: 50px;
+  border-color: peru;
+  text-align: center;
+ } 
+ 
+ .us{
+  margin-top: 30px;
+margin-left: 10px;
+  padding: 40px;
+  border-top: dotted;
+  border-left: dotted;
+  border-right: dotted;
+  background-color: antiquewhite;
+  border-radius: 50px;
+  border-color: peru;
+  
+ }
+ .us input{
+  color: peru;
+  border: none;
+  background-color: aquamarine;
+ 
+
+ }
+
+ .us textarea{
+  border-radius: 20px;
+  border: none;
+  background-color: aquamarine;
+ }
+
+ .cbtn{
+  background-color: transparent;
+  position: absolute;
+  margin-left: 250px;
+  width: 80px;
+  height: 30px;
+ border: dotted;
+  border-color: peru;
+}
+
+.cbtn:hover{
+  width: 100px;
+  height: 40px;
+  border-radius: 10px 0 10px 0;
+  color: beige;
+  background-color: rgb(216, 104, 182);
+  font-family: cursive;
+  font-weight: bolder;
+  font-style: italic;
+  text-decoration: line-through;
+  cursor: pointer;
+  font-size: 30px;
+}
+
+.map{
+ margin-top: 13%;
+ position: absolute;
+ 
+ margin-left: 55%;
+border: 2px solid black;
+border-radius: 50px;
+
+}
+
+
+.mtex{
+
+  width: 130px;
+  margin-top: 70px;
+  position: absolute;
+  margin-left: 70%;
+  font-weight: bolder;
+  font-style: italic;
+  color: peru;
+  border-bottom: dotted;
+  border-left: dotted;
+  border-right: dotted;
+  font-family: cursive;
+  border-radius: 50px;
+  border-color: peru;
+  background-color: antiquewhite;
+  text-align: center;
+}
+
+.map iframe{
+  border-radius: 30px;
+  height: 400px;
+  width: 500px;
+  border-top: dotted;
+  border-left: dotted;
+  border-right: dotted;
+  
+  border-radius: 50px;
+  border-color: peru;
+}
+
+
+
+.tetp{
+height: 570px;
+width: 570px;
+
+margin-top: 17%;
+position: absolute;
+margin-left: 55%;
+background-image: url(tet.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+
+}
